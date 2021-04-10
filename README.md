@@ -18,7 +18,7 @@ To Visit our Movies Hub: https://movieshub-search.web.app/
 
 ### Movie Details page 
 
-![movieDetails] (./src/assests/movieDetails.jpg)
+![movieDetails](./src/assests/movieDetails.jpg)
 
 ## Installation and Setup Instructions
 
